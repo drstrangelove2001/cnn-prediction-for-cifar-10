@@ -14,3 +14,5 @@ The CIFAR-10 dataset consists of 50,000 32x32x3 (32x32 pixels, RGB channels) tra
     10. Truck
     
 In this project we created a classifier for the CIFAR-10 dataset.
+
+(Done to satisfy requirements of IT5005 in NUS)
